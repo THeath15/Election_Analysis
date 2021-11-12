@@ -10,6 +10,7 @@ Election results are as follows:
 Total cast votes : 369,711
 
 List of Candidates:
+    
     -Charles Casper Stockham
 
     -Diana DeGette
