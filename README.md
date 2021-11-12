@@ -16,8 +16,11 @@ List of Candidates:
 
     -Raymon Anthony Doane
 
-<img width="285" alt="Visual Studio_Python_Terminal _Election_Results" src="https://user-images.githubusercontent.com/92903447/141407644-21eadbb6-13ea-4329-8bb4-3925b3cd8d00.png">
 The candidate results (Terminal screen shot run through Visual Studio- Python )
+
+<img width="285" alt="Visual Studio_Python_Terminal _Election_Results" src="https://user-images.githubusercontent.com/92903447/141407644-21eadbb6-13ea-4329-8bb4-3925b3cd8d00.png">
+
+
 
 
 
