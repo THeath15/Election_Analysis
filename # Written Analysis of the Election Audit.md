@@ -13,7 +13,7 @@ Software: Python 3.6.1, Visual Studio Code V.1.62.1, Git Bash
 Printed results to the command line and saved txt files 
 
 ## Election -Audit Results
-How many votes were cast in this congressional election? 
+### How many votes were cast in this congressional election? 
 The total vote cast on the election result has 369,711 votes
 
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
