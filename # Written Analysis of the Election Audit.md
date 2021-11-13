@@ -39,11 +39,16 @@ The Candidate winner of the congressional election audit has **Diana Degette** w
 
 The candidate results (Terminal screen shot run through Visual Studio- Python )
 
-### 
+### Election-Audit Summary:
 Charles Casper Stockham received 23% of the vote with 85,213 votes
 Diana DeGette received 73.8% of the vote with 272,892 votes
 Raymon Anthony Doane received 3.1% of the vote with 11,606 votes
 The winner of the election is : Diana DeGette who received 73.8% of the vote with 272,892 votes
+
+
+Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+On this project, it is suggested th In order to satisfy election commission, a modication on the script for providing the percentage of votes per each county should be analyzed  to show number of votes and their equivalent percentage. Also, determining the the largest county turnout from the election is another criteria to evaluate in tallying the results of the county election. 
 
 
 
