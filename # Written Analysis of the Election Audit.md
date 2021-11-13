@@ -23,6 +23,7 @@ Denver: 82.8% (306,055)  - Denver has the largest county of number of votes
 Arapahoe: 6.7% (24,801) - Arapahoe has the least number of cast votes
 
 Which county had the largest number of votes?
+
 Denver county has the largest number of votes
 
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
