@@ -34,7 +34,8 @@ Which candidate won the election, what was their vote count, and what was their 
 The Candidate winner of the congressional election audit has Diana Degette with the total number of votes of 272,892 voted under her name and percentage rate from total votes has 73.8%
 
 ## Election-Audit Summary
-
+![Pypoll_Challenge_Election_results_screenshot](https://user-images.githubusercontent.com/92903447/141659249-97e5a562-96e4-445f-9fe1-45be73e5fc2d.png)
+![Pypoll_Challenge_Election_results_on terminal screenshot](https://user-images.githubusercontent.com/92903447/141659250-3f844860-ae9e-43da-b4b1-2911f1a72301.png)
 
 The candidate results (Terminal screen shot run through Visual Studio- Python )
 
